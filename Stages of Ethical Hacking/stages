@@ -1,0 +1,7 @@
+Five stages of Hacking 
+
+1. Reconaissance. Active and Passive.
+2. Scanning and Enumeration. Enumeration is finding the vulnerabilities for the the targets using the tools like the nmap and nicto. for example we found the port 22 open, so we surf for the methods of exploting it.  
+3. Exploitation-Gaining Access
+4. Maintaining Acess-like previlege escalation
+5. Covering tracks.
