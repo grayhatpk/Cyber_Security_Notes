@@ -1,0 +1,5 @@
+----------What is the Docker------------
+We can package an application into an image and can run it any where virtually. The Image file contains everything the application needs to run.  
+Dockerizing the application means we add the docker file which contains instructions to docker to package an application into an image. 
+
+Docker file contians all the insturction which are needed for the dockerizing an application. 
